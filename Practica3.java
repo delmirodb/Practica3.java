@@ -4,7 +4,7 @@ public class Practica3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-	//Primer cambio
+	//Segundo cambio
 
         System.out.println("¿Sobre qué tipo de estructura quieres resolver ejercicios?");
         System.out.println("1. if");
