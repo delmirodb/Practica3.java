@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //Rama principal modificada
+=======
+//V1
+//Rama
+//Rama principal 
+>>>>>>> rama
 
 import java.util.Scanner;
 
