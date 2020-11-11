@@ -5,7 +5,11 @@ public class Practica3 {
         Scanner sc = new Scanner(System.in);
 
 	//Segundo cambio
+<<<<<<< HEAD
 	//Cuarto cambio distinto
+=======
+	//Cuarto cambio 
+>>>>>>> 63b40ffb1469b93d1a8fc77cdd5c366a324a3ff5
 
         System.out.println("¿Sobre qué tipo de estructura quieres resolver ejercicios?");
         System.out.println("1. if");
