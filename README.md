@@ -1,3 +1,13 @@
+# P02-40 Git tags, localizar versiones
+## Primer paso
+Creo el tag con `git tag [nombre]`
+## Segundo paso
+Vuelvo a la primera versión del programa con `git checkout [hash]`
+## Tercer paso
+Al hacer commit, no pasa nada. Sin embargo, al intentar hacer push da error ya que es necesario crear un branch primero.
+## Cuarto paso
+Recupero la versión con el tag creado anteriormente utilizando `git checkout [nombre del tag]`
+
 # P02-30 Git resolución de conflictos
 ## Primer problema
 Al hacer push en la segunda carpeta, surge un error que se soluciona haciendo `git pull` y `git push`.
