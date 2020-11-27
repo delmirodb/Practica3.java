@@ -1,3 +1,15 @@
+# P02-50 Git trabajo con ramas
+## Primer paso
+Creo una rama con `git branch`.
+## Segundo paso
+Cambio a la rama principal con `git checkout`, hago los commits y el push.
+## Tercer paso
+Hago un pull, cambio de rama con `git checkout` y veo sus cambios con `git log`.
+## Cuarto paso
+Uno las dos ramas con `git merge` y hago el push.
+## Gráfico
+Se puede ver como el gráfico se difurca en dos y cada rama tiene sus propios cambios, finalmente se unen en una sola version gracias al `git merge`
+
 # P02-40 Git tags, localizar versiones
 ## Primer paso
 Creo el tag con `git tag [nombre]`
